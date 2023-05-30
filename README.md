@@ -6,7 +6,7 @@ The purpose of this project is to develop a free and open-source tool to allow t
 
 The only hardware requirements for this project are a computer, a microscope and a camera.
 
-The model weights and dataset that correspond to this repository can be found at: https://zenodo.org/deposit/7979996
+The model weights and dataset that correspond to this repository can be found at: https://zenodo.org/record/7979996
 
 # Repo Components
 
