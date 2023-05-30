@@ -18,4 +18,4 @@ The repo is broken into 3 subdirectories, "imageExtractionCode" which handles th
 This project has been a collaboration between Dr. Kozak (and her many bright and talented students) from Universidad de Guadalajara, Dr. Carmen Franco-Gordo from Universidad de Guadalajara, and Arick Grootveld from Syracuse University. 
 
 
-*Special thanks to Alma Margarita for coming up with the name for this project. *
+** Special thanks to Alma Margarita for coming up with the name for this project. **
