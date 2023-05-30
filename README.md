@@ -6,6 +6,8 @@ The purpose of this project is to develop a free and open-source tool to allow t
 
 The only hardware requirements for this project are a computer, a microscope and a camera.
 
+The model weights and dataset that correspond to this repository can be found at: https://zenodo.org/deposit/7979996
+
 # Repo Components
 The repo is broken into 3 subdirectories, "imageExtractionCode" which handles the image preprocessing that segments images, "ConvNetCode" which takes the extracted images and classifies them into 1 of 5 taxa (Amphipods, Copepods, Fish Larvae, Ostracods, and Quetognaths) using one of several flavors of Neural Networks, and then "UIDemo" which combines both elements into a simple simplistic demonstration of the capabilities of the image extraction and Conv. Networks. 
 
